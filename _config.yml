@@ -94,7 +94,6 @@ lang: en-GB # Set the site language
 title: "Yueting Li" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Stanford University"
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/Li-Yueting/Li-Yueting.github.io"
 email: "lyt1314@stanford.edu"
@@ -127,10 +126,7 @@ navigation_header:
   url: /blog/
 - title: Categories
   url: /categories/
-# - title: Search
-#   url: /search/
-# - title: Fork Alembic
-#   url: https://github.com/daviddarnes/alembic
+
 
 navigation_footer:
 - title: Created by Yueting Li
@@ -139,9 +135,8 @@ navigation_footer:
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   LinkedIn: https://www.linkedin.com/in/yuetingli/
   GitHub: https://github.com/Li-Yueting
-  Email: mailto:lyt1314@stanford.edu
-  RSS: /feed.xml
-
+  Mail: mailto:lyt1314@stanford.edu
+  
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
   Twitter: "#0d94e7"
   facebook: "#3B5998"
