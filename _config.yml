@@ -98,8 +98,8 @@ logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Stanford University"
 url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/daviddarnes/alembic"
-email: "me@daviddarnes.com"
+repo: "https://github.com/Li-Yueting/Li-Yueting.github.io"
+email: "lyt1314@stanford.edu"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 # google_analytics: ""
@@ -139,9 +139,8 @@ navigation_footer:
   url: https://darn.es
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/DavidDarnes
-  LinkedIn: https://www.linkedin.com/in/daviddarnes
-  GitHub: https://github.com/daviddarnes
+  LinkedIn: https://www.linkedin.com/in/yuetingli/
+  GitHub: https://github.com/Li-Yueting
   link: https://darn.es
   RSS: /feed.xml
 
